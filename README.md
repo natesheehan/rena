@@ -4,7 +4,6 @@
 This software is authored by EMBL-EBI and distributed as is. License: https://www.apache.org/licenses/LICENSE-2.0
 
 The `rena` package provides tools for bulk downloading read/analysis files from ENA via FTP using the `ena-ftp-downloader`.
-download data from the European Nucleotide Archive (ENA). 
 
 The function supports two types of downloads:
 
