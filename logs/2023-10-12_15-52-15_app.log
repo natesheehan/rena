@@ -1,0 +1,42 @@
+2023-10-12 15:52:16.430  INFO 23512 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Starting EnaFileDownloaderApplication using Java 20.0.2 on 5CG1275NG3 with PID 23512 (C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar started by ns651 in C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena)
+2023-10-12 15:52:16.432 DEBUG 23512 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-10-12 15:52:16.432  INFO 23512 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : No active profile set, falling back to default profiles: default
+2023-10-12 15:52:17.477  INFO 23512 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Started EnaFileDownloaderApplication in 1.621 seconds (JVM running for 2.546)
+2023-10-12 15:52:17.495 ERROR 23512 --- [main] uk.ac.ebi.ena.app.MainRunner             : Invalid/insufficient parameters provided.
+
+java.lang.IllegalArgumentException: Please provide a valid search query for the download (`eg : https://www.ebi.ac.uk/ena/portal/api/search?result=read_run&query=country=%22Bangladesh%22`)
+	at uk.ac.ebi.ena.app.MainRunner.validateInputs(MainRunner.java:162)
+	at uk.ac.ebi.ena.app.MainRunner.run(MainRunner.java:110)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:819)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:803)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329)
+	at uk.ac.ebi.ena.EnaFileDownloaderApplication.main(EnaFileDownloaderApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+2023-10-12 15:52:17.497 ERROR 23512 --- [main] uk.ac.ebi.ena.app.MainRunner             : Exception Occurred 
+
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at uk.ac.ebi.ena.app.utils.ScannerUtils.getNextString(ScannerUtils.java:52)
+	at uk.ac.ebi.ena.app.menu.services.MenuService.showTypeOfDataMenu(MenuService.java:226)
+	at uk.ac.ebi.ena.app.MainRunner.run(MainRunner.java:130)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:819)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:803)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329)
+	at uk.ac.ebi.ena.EnaFileDownloaderApplication.main(EnaFileDownloaderApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+

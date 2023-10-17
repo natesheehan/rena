@@ -1,0 +1,5 @@
+2023-10-12 15:21:38.264  INFO 30628 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Starting EnaFileDownloaderApplication using Java 20.0.2 on 5CG1275NG3 with PID 30628 (C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar started by ns651 in C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena)
+2023-10-12 15:21:38.266 DEBUG 30628 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-10-12 15:21:38.266  INFO 30628 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : No active profile set, falling back to default profiles: default
+2023-10-12 15:21:39.274  INFO 30628 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Started EnaFileDownloaderApplication in 1.563 seconds (JVM running for 2.417)
+2023-10-12 15:22:16.237  INFO 30628 --- [main] console                                  : script content:java -jar C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar --accessions=PRJEB1787 --format=ANALYSIS_SUBMITTED --location=C:/Users/ns651/OneDrive --protocol=FTP --asperaLocation=null --email=NONE

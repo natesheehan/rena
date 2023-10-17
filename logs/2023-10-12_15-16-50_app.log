@@ -1,0 +1,28 @@
+2023-10-12 15:16:52.488  INFO 26492 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Starting EnaFileDownloaderApplication using Java 20.0.2 on 5CG1275NG3 with PID 26492 (C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar started by ns651 in C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena)
+2023-10-12 15:16:52.493 DEBUG 26492 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-10-12 15:16:52.493  INFO 26492 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : No active profile set, falling back to default profiles: default
+2023-10-12 15:16:53.899  INFO 26492 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Started EnaFileDownloaderApplication in 2.283 seconds (JVM running for 3.438)
+2023-10-12 15:17:11.913 ERROR 26492 --- [main] uk.ac.ebi.ena.app.MainRunner             : Exception Occurred 
+
+java.lang.NumberFormatException: For input string: "PRJEB47823"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:665)
+	at java.base/java.lang.Integer.parseInt(Integer.java:781)
+	at uk.ac.ebi.ena.app.menu.services.MenuService.aBuildAccessionEntryMenu(MenuService.java:297)
+	at uk.ac.ebi.ena.app.menu.services.MenuService.bShowDownloadFormatMenu(MenuService.java:343)
+	at uk.ac.ebi.ena.app.menu.services.MenuService.aBuildAccessionEntryMenu(MenuService.java:314)
+	at uk.ac.ebi.ena.app.menu.services.MenuService.showTypeOfDataMenu(MenuService.java:233)
+	at uk.ac.ebi.ena.app.MainRunner.run(MainRunner.java:140)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:819)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:803)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329)
+	at uk.ac.ebi.ena.EnaFileDownloaderApplication.main(EnaFileDownloaderApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+

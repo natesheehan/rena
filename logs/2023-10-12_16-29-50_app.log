@@ -1,0 +1,42 @@
+2023-10-12 16:29:51.979  INFO 27056 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Starting EnaFileDownloaderApplication using Java 20.0.2 on 5CG1275NG3 with PID 27056 (C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar started by ns651 in C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena)
+2023-10-12 16:29:51.982 DEBUG 27056 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-10-12 16:29:51.982  INFO 27056 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : No active profile set, falling back to default profiles: default
+2023-10-12 16:29:52.994  INFO 27056 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Started EnaFileDownloaderApplication in 1.575 seconds (JVM running for 2.545)
+2023-10-12 16:29:53.010 ERROR 27056 --- [main] uk.ac.ebi.ena.app.MainRunner             : Invalid/insufficient parameters provided.
+
+java.lang.IllegalArgumentException: Please provide comma separated list of accessions or file path to the accession list or search query
+	at uk.ac.ebi.ena.app.MainRunner.validateInputs(MainRunner.java:160)
+	at uk.ac.ebi.ena.app.MainRunner.run(MainRunner.java:110)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:819)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:803)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329)
+	at uk.ac.ebi.ena.EnaFileDownloaderApplication.main(EnaFileDownloaderApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+2023-10-12 16:29:53.013 ERROR 27056 --- [main] uk.ac.ebi.ena.app.MainRunner             : Exception Occurred 
+
+java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1660)
+	at uk.ac.ebi.ena.app.utils.ScannerUtils.getNextString(ScannerUtils.java:52)
+	at uk.ac.ebi.ena.app.menu.services.MenuService.showTypeOfDataMenu(MenuService.java:226)
+	at uk.ac.ebi.ena.app.MainRunner.run(MainRunner.java:130)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:819)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:803)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329)
+	at uk.ac.ebi.ena.EnaFileDownloaderApplication.main(EnaFileDownloaderApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+

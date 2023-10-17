@@ -1,0 +1,1 @@
+java -jar C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar --accessions=PRJEB1787 --format=ANALYSIS_SUBMITTED --location=C:/Users/ns651/OneDrive --protocol=FTP --asperaLocation=null --email=NONE

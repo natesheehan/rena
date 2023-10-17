@@ -1,0 +1,22 @@
+2023-10-12 10:44:51.756  INFO 21984 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Starting EnaFileDownloaderApplication using Java 20.0.2 on 5CG1275NG3 with PID 21984 (C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar started by ns651 in C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena)
+2023-10-12 10:44:51.760 DEBUG 21984 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-10-12 10:44:51.760  INFO 21984 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : No active profile set, falling back to default profiles: default
+2023-10-12 10:44:53.278  INFO 21984 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Started EnaFileDownloaderApplication in 2.337 seconds (JVM running for 3.614)
+2023-10-12 10:44:53.307  INFO 21984 --- [main] console                                  : Starting download for format:READS_FASTQ at download location:C:/Users/ns651/OneDrive,protocol:FTP, asperaLoc:null, emailId:NONE, data hub:null
+2023-10-12 10:44:53.321  INFO 21984 --- [main] console                                  : Total 1 sample_accession READS_FASTQ records found
+2023-10-12 10:45:17.856  INFO 21984 --- [main] u.a.e.e.b.service.EnaPortalService       : portalAPIEndpoint: https://www.ebi.ac.uk/ena/portal/api/search?result=read_run&includeAccessionType=sample&fields=sample_accession,fastq_bytes,fastq_md5,fastq_ftp&format=json&limit=0&client=ena_file_downloader
+2023-10-12 10:45:17.859 DEBUG 21984 --- [main] u.a.e.e.b.service.EnaPortalService       : url:https://www.ebi.ac.uk/ena/portal/api/search?result=read_run&includeAccessionType=sample&fields=sample_accession,fastq_bytes,fastq_md5,fastq_ftp&format=json&limit=0&client=ena_file_downloader, body:includeAccessions=SAMEA10254937
+2023-10-12 10:45:18.684  INFO 21984 --- [main] console                                  : Downloading 2 files in total
+2023-10-12 10:45:18.772 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : Starting 2 files starting with ftp.sra.ebi.ac.uk/vol1/fastq/ERR691/006/ERR6912696/ERR6912696_1.fastq.gz
+2023-10-12 10:45:18.772  INFO 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : FileURL: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR691/006/ERR6912696/ERR6912696_1.fastq.gz
+2023-10-12 10:45:18.775 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : Downloading ERR6912696_1.fastq.gz, parentId:SAMEA10254937
+2023-10-12 10:45:22.784 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : Completed download ERR6912696_1.fastq.gz, parentId:SAMEA10254937, bytesCopied:4597524
+2023-10-12 10:45:22.806 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : MD5 validation successful for file:ftp.sra.ebi.ac.uk/vol1/fastq/ERR691/006/ERR6912696/ERR6912696_1.fastq.gz
+2023-10-12 10:45:22.806 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : C:/Users/ns651/OneDrive\reads_fastq\SAMEA10254937\ERR6912696\ERR6912696_1.fastq.gz completed.
+2023-10-12 10:45:22.806  INFO 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : FileURL: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR691/006/ERR6912696/ERR6912696_2.fastq.gz
+2023-10-12 10:45:22.806 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : Downloading ERR6912696_2.fastq.gz, parentId:SAMEA10254937
+2023-10-12 10:45:23.691 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : Completed download ERR6912696_2.fastq.gz, parentId:SAMEA10254937, bytesCopied:5022873
+2023-10-12 10:45:23.703 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : MD5 validation successful for file:ftp.sra.ebi.ac.uk/vol1/fastq/ERR691/006/ERR6912696/ERR6912696_2.fastq.gz
+2023-10-12 10:45:23.704 DEBUG 21984 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : C:/Users/ns651/OneDrive\reads_fastq\SAMEA10254937\ERR6912696\ERR6912696_2.fastq.gz completed.
+2023-10-12 10:45:23.705  INFO 21984 --- [main] console                                  : 2 files successfully downloaded for accessionField:sample_accession, format:READS_FASTQ to C:/Users/ns651/OneDrive
+2023-10-12 10:45:23.708  INFO 21984 --- [main] console                                  : Downloads Completed

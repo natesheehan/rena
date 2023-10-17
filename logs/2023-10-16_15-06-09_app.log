@@ -1,0 +1,45 @@
+2023-10-16 15:06:11.552  INFO 17372 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Starting EnaFileDownloaderApplication using Java 20.0.2 on 5CG1275NG3 with PID 17372 (C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar started by ns651 in C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena)
+2023-10-16 15:06:11.557 DEBUG 17372 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-10-16 15:06:11.557  INFO 17372 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : No active profile set, falling back to default profiles: default
+2023-10-16 15:06:13.349  INFO 17372 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Started EnaFileDownloaderApplication in 2.845 seconds (JVM running for 4.776)
+2023-10-16 15:06:13.383  INFO 17372 --- [main] console                                  : Starting download for format:READS_FASTQ at download location:C:/Users/ns651/OneDrive,protocol:FTP, asperaLoc:null, emailId:NULL, data hub:null
+2023-10-16 15:06:13.406  INFO 17372 --- [main] console                                  : Total 1 sample_accession READS_FASTQ records found
+2023-10-16 15:06:13.752  INFO 17372 --- [main] u.a.e.e.b.service.EnaPortalService       : portalAPIEndpoint: https://www.ebi.ac.uk/ena/portal/api/search?result=read_run&includeAccessionType=sample&fields=sample_accession,fastq_bytes,fastq_md5,fastq_ftp&format=json&limit=0&client=ena_file_downloader
+2023-10-16 15:06:13.755 DEBUG 17372 --- [main] u.a.e.e.b.service.EnaPortalService       : url:https://www.ebi.ac.uk/ena/portal/api/search?result=read_run&includeAccessionType=sample&fields=sample_accession,fastq_bytes,fastq_md5,fastq_ftp&format=json&limit=0&client=ena_file_downloader, body:includeAccessions=SAMEA10254937
+2023-10-16 15:06:14.631  INFO 17372 --- [main] console                                  : Downloading 2 files in total
+2023-10-16 15:06:14.770 DEBUG 17372 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : Starting 2 files starting with ftp.sra.ebi.ac.uk/vol1/fastq/ERR691/006/ERR6912696/ERR6912696_1.fastq.gz
+2023-10-16 15:06:14.771  INFO 17372 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : FileURL: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR691/006/ERR6912696/ERR6912696_1.fastq.gz
+2023-10-16 15:06:14.777 DEBUG 17372 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : File ERR6912696_1.fastq.gz already exists and size matches 4597524. Skipping.
+2023-10-16 15:06:14.778  INFO 17372 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : FileURL: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR691/006/ERR6912696/ERR6912696_2.fastq.gz
+2023-10-16 15:06:14.778 DEBUG 17372 --- [pool-2-thread-1] u.a.e.e.b.service.FileDownloaderService  : File ERR6912696_2.fastq.gz already exists and size matches 5022873. Skipping.
+2023-10-16 15:06:14.783  INFO 17372 --- [main] console                                  : 2 files successfully downloaded for accessionField:sample_accession, format:READS_FASTQ to C:/Users/ns651/OneDrive
+2023-10-16 15:06:14.854 ERROR 17372 --- [main] u.a.e.e.b.service.EnaPortalService       : Exception encountered while sending email to emailId:NULL
+
+org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 : [Error sending email, Please try again later.]
+	at org.springframework.web.client.HttpServerErrorException.create(HttpServerErrorException.java:100)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:188)
+	at org.springframework.web.client.DefaultResponseErrorHandler.handleError(DefaultResponseErrorHandler.java:125)
+	at org.springframework.web.client.ResponseErrorHandler.handleError(ResponseErrorHandler.java:63)
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:819)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:751)
+	at org.springframework.web.client.RestTemplate.postForObject(RestTemplate.java:459)
+	at uk.ac.ebi.ena.backend.service.EnaPortalService.sendEmail(EnaPortalService.java:353)
+	at uk.ac.ebi.ena.backend.service.EmailService.sendEmailForFastqSubmitted(EmailService.java:84)
+	at uk.ac.ebi.ena.backend.service.BackendServiceImpl.startDownload(BackendServiceImpl.java:113)
+	at uk.ac.ebi.ena.app.MainRunner.run(MainRunner.java:122)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:819)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:803)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:346)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329)
+	at uk.ac.ebi.ena.EnaFileDownloaderApplication.main(EnaFileDownloaderApplication.java:30)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+2023-10-16 15:06:14.855  INFO 17372 --- [main] console                                  : Email successfully sent to:NULL
+2023-10-16 15:06:14.855  INFO 17372 --- [main] console                                  : Downloads Completed
