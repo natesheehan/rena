@@ -11,12 +11,12 @@ You can install the development version of rena from
 devtools::install_github("natesheehan/rena")
 #> Downloading GitHub repo natesheehan/rena@HEAD
 #> ── R CMD build ─────────────────────────────────────────────────────────────────
-#>          checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpqeiBdb\remotes43206855ce3\natesheehan-rena-83bde20/DESCRIPTION' ...  ✔  checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpqeiBdb\remotes43206855ce3\natesheehan-rena-83bde20/DESCRIPTION'
+#>          checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpgL7ntz\remotes77d022fb3d3d\natesheehan-rena-0450d5d/DESCRIPTION' ...  ✔  checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpgL7ntz\remotes77d022fb3d3d\natesheehan-rena-0450d5d/DESCRIPTION' (353ms)
 #>       ─  preparing 'rena':
 #>    checking DESCRIPTION meta-information ...  ✔  checking DESCRIPTION meta-information
 #>       ─  checking for LF line-endings in source and make files and shell scripts
 #>   ─  checking for empty or unneeded directories
-#>    Omitted 'LazyData' from DESCRIPTION
+#>      Omitted 'LazyData' from DESCRIPTION
 #>       ─  building 'rena_0.1.0.tar.gz'
 #>      
 #> 
@@ -24,14 +24,11 @@ devtools::install_github("natesheehan/rena")
 #> (as 'lib' is unspecified)
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
 # Ena File Downloader
 
-This software is authored by EMBL-EBI and distributed as is. License:
-<https://www.apache.org/licenses/LICENSE-2.0>
+The `rena` package provides tools for bulk downloading read/analysis
+files from ENA via FTP using the `ena-ftp-downloader`. download data
+from the European Nucleotide Archive (ENA).
 
 The function supports two types of downloads:
 
@@ -49,7 +46,7 @@ Install the development version from GitHub as follows:
 
 ``` r
 remotes::install_github("natesheehan/rena")
-#> Skipping install of 'rena' from a github remote, the SHA1 (83bde20d) has not changed since last install.
+#> Skipping install of 'rena' from a github remote, the SHA1 (0450d5d7) has not changed since last install.
 #>   Use `force = TRUE` to force installation
 library(rena)
 ```
@@ -76,12 +73,14 @@ library(rena)
 
 ``` r
 rena::ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ", location = "C:/Users/ns651/OneDrive")
+#> [1] 0
 ```
 
 ### Download data using accession numbers
 
 ``` r
 ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ")
+#> [1] 0
 ```
 
 ## Issues
@@ -97,19 +96,3 @@ personal data to function. By using this tool you are agreeing to this
 as outlined in our Privacy Notice:
 <https://www.ebi.ac.uk/data-protection/privacy-notice/ena-presentation>
 and Terms of Use: <https://www.ebi.ac.uk/about/terms-of-use>.
-
-------------------------------------------------------------------------
-
-- Copyright 2023 EMBL-EBI, Hinxton outstation
-- Licensed under the Apache License, Version 2.0 (the “License”);
-- you may not use this file except in compliance with the License.
-- You may obtain a copy of the License at
-  <http://www.apache.org/licenses/LICENSE-2.0>
-- Unless required by applicable law or agreed to in writing, software
-- distributed under the License is distributed on an “AS IS” BASIS,
-- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-  implied.
-- See the License for the specific language governing permissions and
-- limitations under the License.
-
-------------------------------------------------------------------------

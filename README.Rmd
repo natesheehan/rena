@@ -22,13 +22,8 @@ You can install the development version of rena from [GitHub](https://github.com
 devtools::install_github("natesheehan/rena")
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
 
 # Ena File Downloader
-
-This software is authored by EMBL-EBI and distributed as is. License: https://www.apache.org/licenses/LICENSE-2.0
 
 The `rena` package provides tools for bulk downloading read/analysis files from ENA via FTP using the `ena-ftp-downloader`.
 download data from the European Nucleotide Archive (ENA). 
@@ -79,16 +74,3 @@ For support/issues, please contact us at https://www.ebi.ac.uk/ena/browser/suppo
 The execution of this tool may require limited processing of your personal data to function. By using
 this tool you are agreeing to this as outlined in our Privacy Notice: https://www.ebi.ac.uk/data-protection/privacy-notice/ena-presentation and Terms of Use: https://www.ebi.ac.uk/about/terms-of-use.
 
-*******************************************************************************
-
-* Copyright 2023 EMBL-EBI, Hinxton outstation
-* Licensed under the Apache License, Version 2.0 (the "License");
-* you may not use this file except in compliance with the License.
-* You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-
-******************************************************************************
