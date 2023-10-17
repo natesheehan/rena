@@ -62,7 +62,7 @@ ena_download <- function(download_type,
     if (is.null(query)) {
       stop("Query is required for download type 'q'.")
     }
-    ena_command <- paste(ena_command, " --query=", query)
+    ena_command <- paste0(ena_command, " --query=", query)
   } else if (download_type == "a") {
     if (is.null(accession)) {
       stop("Accession is required for download type 'a'.")

@@ -42,10 +42,10 @@ It supports two types of downloads:
 }
 \examples{
 # Download data using a query
-ena_download("q", query = "tax_tree(9606) AND library_strategy='RNA-Seq'", format = "READS_FASTQ")
+ena_download("q", query = "country=\%22Japan\%22AND\%20depth=168", format = "READS_FASTQ")
 
 # Download data using accession numbers
-ena_download("a", accession = "SRR1234567,SRR7654321", format = "ANALYSIS_GENERATED")
+ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ")
 
 
 }
