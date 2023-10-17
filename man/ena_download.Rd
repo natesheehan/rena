@@ -47,4 +47,5 @@ ena_download("q", query = "tax_tree(9606) AND library_strategy='RNA-Seq'", forma
 # Download data using accession numbers
 ena_download("a", accession = "SRR1234567,SRR7654321", format = "ANALYSIS_GENERATED")
 
+
 }
