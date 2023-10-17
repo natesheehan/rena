@@ -20,7 +20,8 @@
 #'
 #' @examples
 #' # Download data using a query
-#' ena_download("q", query = "country=%22Japan%22AND%20depth=168", format = "READS_FASTQ")
+#' q = "result=read_run&query=country=%22Japan%22AND%20depth=168"
+#' ena_download("q", query = q, format = "READS_FASTQ")
 #'
 #' # Download data using accession numbers
 #' ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ")

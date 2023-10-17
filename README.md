@@ -11,16 +11,16 @@ You can install the development version of rena from
 devtools::install_github("natesheehan/rena")
 #> Downloading GitHub repo natesheehan/rena@HEAD
 #> ── R CMD build ─────────────────────────────────────────────────────────────────
-#>          checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpgL7ntz\remotes77d022fb3d3d\natesheehan-rena-0450d5d/DESCRIPTION' ...  ✔  checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpgL7ntz\remotes77d022fb3d3d\natesheehan-rena-0450d5d/DESCRIPTION' (353ms)
-#>       ─  preparing 'rena':
+#>          checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpS0enCm\remotes54ec2e4e2514\natesheehan-rena-8b8bf33/DESCRIPTION' ...  ✔  checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpS0enCm\remotes54ec2e4e2514\natesheehan-rena-8b8bf33/DESCRIPTION'
+#>       ─  preparing 'rena': (517ms)
 #>    checking DESCRIPTION meta-information ...  ✔  checking DESCRIPTION meta-information
 #>       ─  checking for LF line-endings in source and make files and shell scripts
-#>   ─  checking for empty or unneeded directories
+#>       ─  checking for empty or unneeded directories
 #>      Omitted 'LazyData' from DESCRIPTION
 #>       ─  building 'rena_0.1.0.tar.gz'
 #>      
 #> 
-#> Installing package into 'C:/Users/ns651/AppData/Local/R/win-library/4.2'
+#> Installing package into 'C:/Users/ns651/AppData/Local/Temp/RtmpWCakON/temp_libpath8e08357194f'
 #> (as 'lib' is unspecified)
 ```
 
@@ -46,7 +46,7 @@ Install the development version from GitHub as follows:
 
 ``` r
 remotes::install_github("natesheehan/rena")
-#> Skipping install of 'rena' from a github remote, the SHA1 (0450d5d7) has not changed since last install.
+#> Skipping install of 'rena' from a github remote, the SHA1 (8b8bf33d) has not changed since last install.
 #>   Use `force = TRUE` to force installation
 library(rena)
 ```
@@ -69,19 +69,13 @@ library(rena)
 - `email:` A character string specifying the email address for
   notifications. By default, no email is sent.
 
-### Download data using a query
+### Download data using accessions ids
 
-``` r
-rena::ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ", location = "C:/Users/ns651/OneDrive")
-#> [1] 0
-```
+    rena::ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ", location = "C:/Users/ns651/OneDrive")
 
-### Download data using accession numbers
+### Download data using query
 
-``` r
-ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ")
-#> [1] 0
-```
+    rena::ena_download("q", query = "result=read_run&query=country=%22Japan%22AND%20depth=168", format = "READS_FASTQ",location = "C:/Users/ns651/OneDrive")
 
 ## Issues
 

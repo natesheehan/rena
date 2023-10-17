@@ -2,7 +2,7 @@
 title: "data-download"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{my-vignette}
+  %\VignetteIndexEntry{data-download}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -26,7 +26,7 @@ The European Nucleotide Archive (ENA) provides a comprehensive record of nucleot
 library(rena)
 ```
 
-Before using the rena package, ensure you have the necessary Java runtime installed on your local machine and the ena-file-downloader.jar file in the inst/extdata/ena-file-downloader/ directory of your package.
+Before using the rena package, ensure you have the necessary Java runtime installed on your local machine and the ena-file-downloader.jar file in the `inst/extdata/ena-file-downloader/` directory of your package.
 
 ### Arguments
 
