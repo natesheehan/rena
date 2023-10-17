@@ -61,27 +61,22 @@
 <span><span class="fu">devtools</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"natesheehan/rena"</span><span class="op">)</span></span>
 <span><span class="co">#&gt; Downloading GitHub repo natesheehan/rena@HEAD</span></span>
 <span><span class="co">#&gt; ── R CMD build ─────────────────────────────────────────────────────────────────</span></span>
-<span><span class="co">#&gt;          checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpqeiBdb\remotes43206855ce3\natesheehan-rena-83bde20/DESCRIPTION' ...  ✔  checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpqeiBdb\remotes43206855ce3\natesheehan-rena-83bde20/DESCRIPTION'</span></span>
+<span><span class="co">#&gt;          checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpgL7ntz\remotes77d022fb3d3d\natesheehan-rena-0450d5d/DESCRIPTION' ...  ✔  checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpgL7ntz\remotes77d022fb3d3d\natesheehan-rena-0450d5d/DESCRIPTION' (353ms)</span></span>
 <span><span class="co">#&gt;       ─  preparing 'rena':</span></span>
 <span><span class="co">#&gt;    checking DESCRIPTION meta-information ...  ✔  checking DESCRIPTION meta-information</span></span>
 <span><span class="co">#&gt;       ─  checking for LF line-endings in source and make files and shell scripts</span></span>
 <span><span class="co">#&gt;   ─  checking for empty or unneeded directories</span></span>
-<span><span class="co">#&gt;    Omitted 'LazyData' from DESCRIPTION</span></span>
+<span><span class="co">#&gt;      Omitted 'LazyData' from DESCRIPTION</span></span>
 <span><span class="co">#&gt;       ─  building 'rena_0.1.0.tar.gz'</span></span>
 <span><span class="co">#&gt;      </span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt; Installing package into 'C:/Users/ns651/AppData/Local/R/win-library/4.2'</span></span>
 <span><span class="co">#&gt; (as 'lib' is unspecified)</span></span></code></pre></div>
 </div>
-<div class="section level2">
-<h2 id="example">Example<a class="anchor" aria-label="anchor" href="#example"></a>
-</h2>
-<p>This is a basic example which shows you how to solve a common problem:</p>
-</div>
 <div class="section level1">
 <div class="page-header"><h1 id="ena-file-downloader">Ena File Downloader<a class="anchor" aria-label="anchor" href="#ena-file-downloader"></a>
 </h1></div>
-<p>This software is authored by EMBL-EBI and distributed as is. License: <a href="https://www.apache.org/licenses/LICENSE-2.0" class="external-link uri">https://www.apache.org/licenses/LICENSE-2.0</a></p>
+<p>The <code>rena</code> package provides tools for bulk downloading read/analysis files from ENA via FTP using the <code>ena-ftp-downloader</code>. download data from the European Nucleotide Archive (ENA).</p>
 <p>The function supports two types of downloads:</p>
 <ul>
 <li>Query-based download: Provide a query string to retrieve specific data.</li>
@@ -94,7 +89,7 @@
 <p>Install the development version from GitHub as follows:</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"natesheehan/rena"</span><span class="op">)</span></span>
-<span><span class="co">#&gt; Skipping install of 'rena' from a github remote, the SHA1 (83bde20d) has not changed since last install.</span></span>
+<span><span class="co">#&gt; Skipping install of 'rena' from a github remote, the SHA1 (0450d5d7) has not changed since last install.</span></span>
 <span><span class="co">#&gt;   Use `force = TRUE` to force installation</span></span>
 <span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://natesheehan.github.io/rena/">rena</a></span><span class="op">)</span></span></code></pre></div>
 </div>
@@ -123,13 +118,15 @@
 <h3 id="download-data-using-a-query">Download data using a query<a class="anchor" aria-label="anchor" href="#download-data-using-a-query"></a>
 </h3>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">rena</span><span class="fu">::</span><span class="fu"><a href="reference/ena_download.html">ena_download</a></span><span class="op">(</span><span class="st">"a"</span>, accession <span class="op">=</span> <span class="st">"SAMEA3231268,SAMEA3231287"</span>, format <span class="op">=</span> <span class="st">"READS_FASTQ"</span>, location <span class="op">=</span> <span class="st">"C:/Users/ns651/OneDrive"</span><span class="op">)</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu">rena</span><span class="fu">::</span><span class="fu"><a href="reference/ena_download.html">ena_download</a></span><span class="op">(</span><span class="st">"a"</span>, accession <span class="op">=</span> <span class="st">"SAMEA3231268,SAMEA3231287"</span>, format <span class="op">=</span> <span class="st">"READS_FASTQ"</span>, location <span class="op">=</span> <span class="st">"C:/Users/ns651/OneDrive"</span><span class="op">)</span></span>
+<span><span class="co">#&gt; [1] 0</span></span></code></pre></div>
 </div>
 <div class="section level3">
 <h3 id="download-data-using-accession-numbers">Download data using accession numbers<a class="anchor" aria-label="anchor" href="#download-data-using-accession-numbers"></a>
 </h3>
 <div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu"><a href="reference/ena_download.html">ena_download</a></span><span class="op">(</span><span class="st">"a"</span>, accession <span class="op">=</span> <span class="st">"SAMEA3231268,SAMEA3231287"</span>, format <span class="op">=</span> <span class="st">"READS_FASTQ"</span><span class="op">)</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu"><a href="reference/ena_download.html">ena_download</a></span><span class="op">(</span><span class="st">"a"</span>, accession <span class="op">=</span> <span class="st">"SAMEA3231268,SAMEA3231287"</span>, format <span class="op">=</span> <span class="st">"READS_FASTQ"</span><span class="op">)</span></span>
+<span><span class="co">#&gt; [1] 0</span></span></code></pre></div>
 </div>
 </div>
 <div class="section level2">
@@ -141,20 +138,6 @@
 <h2 id="privacy-notice">Privacy Notice<a class="anchor" aria-label="anchor" href="#privacy-notice"></a>
 </h2>
 <p>The execution of this tool may require limited processing of your personal data to function. By using this tool you are agreeing to this as outlined in our Privacy Notice: <a href="https://www.ebi.ac.uk/data-protection/privacy-notice/ena-presentation" class="external-link uri">https://www.ebi.ac.uk/data-protection/privacy-notice/ena-presentation</a> and Terms of Use: <a href="https://www.ebi.ac.uk/about/terms-of-use" class="external-link uri">https://www.ebi.ac.uk/about/terms-of-use</a>.</p>
-<hr>
-<ul>
-<li>Copyright 2023 EMBL-EBI, Hinxton outstation</li>
-<li>Licensed under the Apache License, Version 2.0 (the “License”);</li>
-<li>you may not use this file except in compliance with the License.</li>
-<li>You may obtain a copy of the License at <a href="http://www.apache.org/licenses/LICENSE-2.0" class="external-link uri">http://www.apache.org/licenses/LICENSE-2.0</a>
-</li>
-<li>Unless required by applicable law or agreed to in writing, software</li>
-<li>distributed under the License is distributed on an “AS IS” BASIS,</li>
-<li>WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</li>
-<li>See the License for the specific language governing permissions and</li>
-<li>limitations under the License.</li>
-</ul>
-<hr>
 </div>
 </div>
 
