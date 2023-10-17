@@ -1,0 +1,60 @@
+---
+title: "data-download"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{my-vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Downloading Data from the European Nucleotide Archive (ENA)
+
+## Introduction
+
+The European Nucleotide Archive (ENA) provides a comprehensive record of nucleotide sequences and their associated annotation. The ena_download function in our package offers a streamlined way to download data from ENA using either a query or accession numbers.
+
+## Setup
+
+```{r setup}
+library(rena)
+```
+
+Before using the rena package, ensure you have the necessary Java runtime installed on your local machine and the ena-file-downloader.jar file in the inst/extdata/ena-file-downloader/ directory of your package.
+
+### Arguments
+
+- `download_type`: A character specifying the type of download. Use ‘q’
+  for query-based download or ‘a’ for accession-based download.
+- `query`: A character string containing the query to retrieve specific
+  data. This is required when using the ‘q’ download type.
+- `accession`: A character string containing accession numbers. This is
+  required when using the ‘a’ download type.
+- `format`: A character string specifying the format of the data to
+  download. Valid options are ‘READS_FASTQ’, ‘READS_SUBMITTED’,
+  ‘ANALYSIS_SUBMITTED’, and ‘ANALYSIS_GENERATED’.
+- `location`: A character string specifying the download location. By
+  default, it uses the current working directory.
+- `email:` A character string specifying the email address for
+  notifications. By default, no email is sent.
+
+
+## Download data using a query
+
+```{r}
+rena::ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ", location = "C:/Users/ns651/OneDrive")
+```
+
+## Download data using accession numbers
+
+```{r}
+ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ")
+```
+
+Files downloaded using this function are saved to the specified location provided as an argument. If no location is specified, files will default to the current working directory. Additionally, each execution of the download command generates an update to a log file in your `logs` folder in your local directory. This log captures details of the build process and can be invaluable for troubleshooting in the event of any issues or errors during the download.
