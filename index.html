@@ -43,7 +43,7 @@
 <li class="nav-item dropdown">
   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" id="dropdown-articles">Articles</a>
   <div class="dropdown-menu" aria-labelledby="dropdown-articles">
-    <a class="dropdown-item" href="articles/my-vignette.html">data-download</a>
+    <a class="dropdown-item" href="articles/data-download.html">data-download</a>
   </div>
 </li>
       </ul>
@@ -67,16 +67,16 @@
 <span><span class="fu">devtools</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"natesheehan/rena"</span><span class="op">)</span></span>
 <span><span class="co">#&gt; Downloading GitHub repo natesheehan/rena@HEAD</span></span>
 <span><span class="co">#&gt; ── R CMD build ─────────────────────────────────────────────────────────────────</span></span>
-<span><span class="co">#&gt;          checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpgL7ntz\remotes77d022fb3d3d\natesheehan-rena-0450d5d/DESCRIPTION' ...  ✔  checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpgL7ntz\remotes77d022fb3d3d\natesheehan-rena-0450d5d/DESCRIPTION' (353ms)</span></span>
-<span><span class="co">#&gt;       ─  preparing 'rena':</span></span>
+<span><span class="co">#&gt;          checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpS0enCm\remotes54ec2e4e2514\natesheehan-rena-8b8bf33/DESCRIPTION' ...  ✔  checking for file 'C:\Users\ns651\AppData\Local\Temp\RtmpS0enCm\remotes54ec2e4e2514\natesheehan-rena-8b8bf33/DESCRIPTION'</span></span>
+<span><span class="co">#&gt;       ─  preparing 'rena': (517ms)</span></span>
 <span><span class="co">#&gt;    checking DESCRIPTION meta-information ...  ✔  checking DESCRIPTION meta-information</span></span>
 <span><span class="co">#&gt;       ─  checking for LF line-endings in source and make files and shell scripts</span></span>
-<span><span class="co">#&gt;   ─  checking for empty or unneeded directories</span></span>
+<span><span class="co">#&gt;       ─  checking for empty or unneeded directories</span></span>
 <span><span class="co">#&gt;      Omitted 'LazyData' from DESCRIPTION</span></span>
 <span><span class="co">#&gt;       ─  building 'rena_0.1.0.tar.gz'</span></span>
 <span><span class="co">#&gt;      </span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt; Installing package into 'C:/Users/ns651/AppData/Local/R/win-library/4.2'</span></span>
+<span><span class="co">#&gt; Installing package into 'C:/Users/ns651/AppData/Local/Temp/RtmpWCakON/temp_libpath8e08357194f'</span></span>
 <span><span class="co">#&gt; (as 'lib' is unspecified)</span></span></code></pre></div>
 </div>
 <div class="section level1">
@@ -95,7 +95,7 @@
 <p>Install the development version from GitHub as follows:</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"natesheehan/rena"</span><span class="op">)</span></span>
-<span><span class="co">#&gt; Skipping install of 'rena' from a github remote, the SHA1 (0450d5d7) has not changed since last install.</span></span>
+<span><span class="co">#&gt; Skipping install of 'rena' from a github remote, the SHA1 (8b8bf33d) has not changed since last install.</span></span>
 <span><span class="co">#&gt;   Use `force = TRUE` to force installation</span></span>
 <span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://natesheehan.github.io/rena/">rena</a></span><span class="op">)</span></span></code></pre></div>
 </div>
@@ -121,18 +121,14 @@
 </ul>
 </div>
 <div class="section level3">
-<h3 id="download-data-using-a-query">Download data using a query<a class="anchor" aria-label="anchor" href="#download-data-using-a-query"></a>
+<h3 id="download-data-using-accessions-ids">Download data using accessions ids<a class="anchor" aria-label="anchor" href="#download-data-using-accessions-ids"></a>
 </h3>
-<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">rena</span><span class="fu">::</span><span class="fu"><a href="reference/ena_download.html">ena_download</a></span><span class="op">(</span><span class="st">"a"</span>, accession <span class="op">=</span> <span class="st">"SAMEA3231268,SAMEA3231287"</span>, format <span class="op">=</span> <span class="st">"READS_FASTQ"</span>, location <span class="op">=</span> <span class="st">"C:/Users/ns651/OneDrive"</span><span class="op">)</span></span>
-<span><span class="co">#&gt; [1] 0</span></span></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>rena<span class="sc">::</span><span class="fu">ena_download</span>(<span class="st">"a"</span>, <span class="at">accession =</span> <span class="st">"SAMEA3231268,SAMEA3231287"</span>, <span class="at">format =</span> <span class="st">"READS_FASTQ"</span>, <span class="at">location =</span> <span class="st">"C:/Users/ns651/OneDrive"</span>)</span></code></pre></div>
 </div>
 <div class="section level3">
-<h3 id="download-data-using-accession-numbers">Download data using accession numbers<a class="anchor" aria-label="anchor" href="#download-data-using-accession-numbers"></a>
+<h3 id="download-data-using-query">Download data using query<a class="anchor" aria-label="anchor" href="#download-data-using-query"></a>
 </h3>
-<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu"><a href="reference/ena_download.html">ena_download</a></span><span class="op">(</span><span class="st">"a"</span>, accession <span class="op">=</span> <span class="st">"SAMEA3231268,SAMEA3231287"</span>, format <span class="op">=</span> <span class="st">"READS_FASTQ"</span><span class="op">)</span></span>
-<span><span class="co">#&gt; [1] 0</span></span></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode R"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>rena<span class="sc">::</span><span class="fu">ena_download</span>(<span class="st">"q"</span>, <span class="at">query =</span> <span class="st">"result=read_run&amp;query=country=%22Japan%22AND%20depth=168"</span>, <span class="at">format =</span> <span class="st">"READS_FASTQ"</span>,<span class="at">location =</span> <span class="st">"C:/Users/ns651/OneDrive"</span>)</span></code></pre></div>
 </div>
 </div>
 <div class="section level2">
