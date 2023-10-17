@@ -1,6 +1,0 @@
-2023-10-12 10:10:59.826  INFO 12960 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Starting EnaFileDownloaderApplication using Java 20.0.2 on 5CG1275NG3 with PID 12960 (C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar started by ns651 in C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena)
-2023-10-12 10:10:59.828 DEBUG 12960 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Running with Spring Boot v2.4.5, Spring v5.3.6
-2023-10-12 10:10:59.829  INFO 12960 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : No active profile set, falling back to default profiles: default
-2023-10-12 10:11:00.885  INFO 12960 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Started EnaFileDownloaderApplication in 1.604 seconds (JVM running for 2.485)
-2023-10-12 10:11:41.253 ERROR 12960 --- [main] uk.ac.ebi.ena.app.utils.MenuUtils        : Search query is not valid java.net.URISyntaxException: Illegal character in query at index 44: https://www.ebi.ac.uk/ena/portal/api/search?"123"
-2023-10-12 10:11:50.469 ERROR 12960 --- [main] uk.ac.ebi.ena.app.utils.MenuUtils        : Search query is not valid java.net.URISyntaxException: Illegal character in query at index 44: https://www.ebi.ac.uk/ena/portal/api/search?"eco"
