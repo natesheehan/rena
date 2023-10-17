@@ -3,12 +3,10 @@ Type: Package
 Title: Bulk Downloads From the ENA FTP File Downloader
 Version: 0.1.0
 Authors@R: 
-    c(person(given = "Nathanael",
-             family = "Sheehan",
-             role = c("aut", "cre"),
-             email = "nathanaelsheehan@gmail.com",
-             comment = c(ORCID = "0000-0002-2779-0976"))
-Description: The rena package provides tools for bulk downloading read/analysis files from ENA via FTP using the `ena-ftp-downloader`.
+    person("Nathanael", "Sheehan", , "nathanael@ebi.ac.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-2779-0976"))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
 License: Apache License (>= 2)
 Encoding: UTF-8
 LazyData: true
