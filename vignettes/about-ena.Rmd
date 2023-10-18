@@ -1,0 +1,17 @@
+---
+title: "about-ena"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{about-ena}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# About the European Nucleotide Archive (ENA)
