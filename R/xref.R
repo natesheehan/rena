@@ -5,6 +5,9 @@
 #'
 #' @return A data frame containing the query results.
 #' @export
+#' @importFrom httr GET
+#' @importFrom httr status_code
+#' @importFrom utils read.table
 xref_active = function(){
   response <- GET("https://www.ebi.ac.uk/ena/xref/rest/tsv/source?status=ACTIVE")
   # Check if the response was successful
@@ -14,8 +17,6 @@ xref_active = function(){
     # Read the content into a data frame
     data <- read.table(text = content, sep = "\t", header = TRUE, quote = "")
 
-    # Optionally, write the data to a local TSV file
-    write.table(data, "data.tsv", sep = "\t", row.names = FALSE, quote = FALSE)
   } else {
     cat("The request failed with status code:", status_code(response))
   }
@@ -30,6 +31,9 @@ xref_active = function(){
 #'
 #' @param target The target source to query.
 #' @return A data frame containing the query results.
+#' @importFrom httr GET
+#' @importFrom httr status_code
+#' @importFrom utils read.table
 #' @export
 xref_target = function(target){
   response <- GET(paste0("https://www.ebi.ac.uk/ena/xref/rest/tsv/target?source=",target))
@@ -40,13 +44,13 @@ xref_target = function(target){
     # Read the content into a data frame
     data <- read.table(text = content, sep = "\t", header = TRUE, quote = "")
 
-    # Optionally, write the data to a local TSV file
-    write.table(data, "data.tsv", sep = "\t", row.names = FALSE, quote = FALSE)
+
   } else {
     cat("The request failed with status code:", status_code(response))
   }
   return(data)
 }
+
 #' Count Xref Search Results
 #'
 #' Performs a search count query in the EBI xref database based on provided parameters.
@@ -56,6 +60,9 @@ xref_target = function(target){
 #' @param target Optional target parameter for the query.
 #' @param accession Optional accession parameter for the query.
 #' @return A data frame containing the count of search results.
+#' @importFrom httr GET
+#' @importFrom httr status_code
+#' @importFrom utils read.table
 #' @export
 xref_searchcount <- function(source = NULL, target = NULL, accession = NULL) {
   # Base URL
@@ -97,6 +104,7 @@ xref_searchcount <- function(source = NULL, target = NULL, accession = NULL) {
 
   return(data)
 }
+
 #' Perform Xref Search
 #'
 #' Searches the EBI xref database based on provided parameters.
@@ -107,6 +115,9 @@ xref_searchcount <- function(source = NULL, target = NULL, accession = NULL) {
 #' @param accession Optional accession parameter for the query.
 #' @param limit Optional limit parameter for the query.
 #' @return A data frame containing the search results.
+#' @importFrom httr GET
+#' @importFrom httr status_code
+#' @importFrom utils read.table
 #' @export
 xref_search <- function(source = NULL, target = NULL, accession = NULL,limit=NULL) {
   # Base URL
