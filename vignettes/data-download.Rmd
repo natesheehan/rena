@@ -45,20 +45,21 @@ Before using the rena package, ensure you have the necessary Java runtime instal
   notifications. By default, no email is sent.
   
 Please enclose the inputs within double quotes if it contains spaces. For example, if you would like to download files in a location such as `C:\Users\Documents\ena ebi` you wuold need to delcare the location as:
-```{r}
+
+```{r,eval=FALSE}
 location = "`C:\Users\Documents\ena ebi`"
 ```
 
 
 ## Download data using a query
 
-```{r}
+```{r,eval=FALSE}
 rena::ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ", location = "C:/Users/ns651/OneDrive")
 ```
 
 ## Download data using accession numbers
 
-```{r}
+```{r,eval=FALSE}
 ena_download("a", accession = "SAMEA3231268,SAMEA3231287", format = "READS_FASTQ")
 ```
 

@@ -1,0 +1,53 @@
+---
+title: "Xref"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{data-download}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Xref
+
+The ENA Xref service holds cross-references to a number of external data resources linked to ENA records. These cross-reference sources include both services operated by colleagues at EMBL-EBI (such as UniProt and Ensembl) as well as those operated outside EMBL-EBI (including SILVA and RFAM).
+
+These can be searched across and explored using the cross-reference search. You can navigate to the cross-reference search here:
+
+https://www.ebi.ac.uk/ena/browser/xref
+
+
+There are four functionalities of the cross-reference search:
+
+- Search Active DB's
+
+- Search Target 
+
+- Search Count
+
+- Full Search
+
+These functionalites work as follows:
+
+If one would like to search the active repositories in the xref system one would need to run:
+
+```{r, eval = FALSE}
+library(rena)
+xref_active()
+```
+
+This will return a dataframe with the active Xref Databases and their respective descriptions.
+
+Following this, if one would like to know the types of target data available in a database they can search:
+
+```{r, eval = FALSE}
+xref_target("ArrayExpress")
+```
+
+
