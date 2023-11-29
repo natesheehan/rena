@@ -1,1 +1,0 @@
-java -jar C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\ena-file-downloader\ena-file-downloader.jar --accessions=SAMEA10254937 --format=READS_FASTQ --location=C:/Users/ns651/OneDrive - University of Exeter/Desktop/rena --protocol=FTP --asperaLocation=null --email=NONE
