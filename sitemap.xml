@@ -31,9 +31,18 @@
     <loc>https://natesheehan.github.io/rena/reference/ena_download.html</loc>
   </url>
   <url>
-    <loc>https://natesheehan.github.io/rena/reference/hello.html</loc>
+    <loc>https://natesheehan.github.io/rena/reference/index.html</loc>
   </url>
   <url>
-    <loc>https://natesheehan.github.io/rena/reference/index.html</loc>
+    <loc>https://natesheehan.github.io/rena/reference/xref_active.html</loc>
+  </url>
+  <url>
+    <loc>https://natesheehan.github.io/rena/reference/xref_search.html</loc>
+  </url>
+  <url>
+    <loc>https://natesheehan.github.io/rena/reference/xref_searchcount.html</loc>
+  </url>
+  <url>
+    <loc>https://natesheehan.github.io/rena/reference/xref_target.html</loc>
   </url>
 </urlset>
