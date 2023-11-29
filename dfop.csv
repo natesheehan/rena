@@ -1,0 +1,1591 @@
+"","Database","Word","SearchCount","TotalCount","ReferenceCount"
+"1","ArrayExpress","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"2","ArrayExpress","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"3","ArrayExpress","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"4","ArrayExpress","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"5","ArrayExpress","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"6","ArrayExpress","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"7","ArrayExpress","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"8","ArrayExpress","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"9","ArrayExpress","study
+(Total:1735382,  DB's Ref:14)",2147,1735382,14
+"10","ArrayExpress","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"11","ArrayExpress","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"12","ArrayExpress","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"13","ArrayExpress","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"14","ArrayExpress","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"15","ArrayExpress","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"16","ArrayExpress","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"17","ArrayExpress","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"18","ArrayExpress","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"19","ArrayExpress","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"20","ArrayExpress","study
+(Total:1735382,  DB's Ref:14)",2147,1735382,14
+"21","ArrayExpress","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"22","ArrayExpress","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"23","Assembly","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"24","Assembly","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"25","Assembly","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"26","ArrayExpress","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"27","ArrayExpress","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"28","ArrayExpress","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"29","ArrayExpress","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"30","ArrayExpress","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"31","ArrayExpress","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"32","ArrayExpress","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"33","ArrayExpress","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"34","ArrayExpress","study
+(Total:1735382,  DB's Ref:14)",2147,1735382,14
+"35","ArrayExpress","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"36","ArrayExpress","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"37","Assembly","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"38","Assembly","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"39","Assembly","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"40","Assembly","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"41","Assembly","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"42","Assembly","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"43","Assembly","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"44","Assembly","sequence
+(Total:183684590,  DB's Ref:47)",24635335,183684590,47
+"45","Assembly","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"46","Assembly","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"47","Assembly","wgsmaster
+(Total:1929971,  DB's Ref:7)",1920346,1929971,7
+"48","BacDive","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"49","BacDive","assembly
+(Total:56319,  DB's Ref:3)",16129,56319,3
+"50","BacDive","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"51","BacDive","experiment
+(Total:26615,  DB's Ref:3)",1,26615,3
+"52","BacDive","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"53","BacDive","run
+(Total:96994745,  DB's Ref:4)",1,96994745,4
+"54","BacDive","sample
+(Total:406434,  DB's Ref:8)",2,406434,8
+"55","BacDive","sequence
+(Total:183684590,  DB's Ref:47)",33425,183684590,47
+"56","BacDive","study
+(Total:1735382,  DB's Ref:14)",12,1735382,14
+"57","BacDive","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"58","BacDive","wgsmaster
+(Total:1929971,  DB's Ref:7)",5142,1929971,7
+"59","BCCM/LMBP","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"60","BCCM/LMBP","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"61","BCCM/LMBP","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"62","BCCM/LMBP","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"63","BCCM/LMBP","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"64","BCCM/LMBP","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"65","BCCM/LMBP","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"66","BCCM/LMBP","sequence
+(Total:183684590,  DB's Ref:47)",833,183684590,47
+"67","BCCM/LMBP","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"68","BCCM/LMBP","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"69","BCCM/LMBP","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"70","BlobToolKit","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"71","BlobToolKit","assembly
+(Total:56319,  DB's Ref:3)",6716,56319,3
+"72","BlobToolKit","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"73","BlobToolKit","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"74","BlobToolKit","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"75","BlobToolKit","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"76","BlobToolKit","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"77","BlobToolKit","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"78","BlobToolKit","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"79","BlobToolKit","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"80","BlobToolKit","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"81","CABRI","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"82","CABRI","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"83","CABRI","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"84","CABRI","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"85","CABRI","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"86","CABRI","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"87","CABRI","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"88","CABRI","sequence
+(Total:183684590,  DB's Ref:47)",694200,183684590,47
+"89","CABRI","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"90","CABRI","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"91","CABRI","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"92","CCAP","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"93","CCAP","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"94","CCAP","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"95","CCAP","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"96","CCAP","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"97","CCAP","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"98","CCAP","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"99","CCAP","sequence
+(Total:183684590,  DB's Ref:47)",5106,183684590,47
+"100","CCAP","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"101","CCAP","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"102","CCAP","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"103","Citation","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"104","Citation","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"105","Citation","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"106","Citation","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"107","Citation","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"108","Citation","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"109","Citation","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"110","Citation","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"111","Citation","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"112","Citation","taxon
+(Total:824007,  DB's Ref:6)",539909,824007,6
+"113","Citation","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"114","CNGBdb","analysis
+(Total:67584251,  DB's Ref:4)",8,67584251,4
+"115","CNGBdb","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"116","CNGBdb","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"117","CNGBdb","experiment
+(Total:26615,  DB's Ref:3)",4474,26615,3
+"118","CNGBdb","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"119","CNGBdb","run
+(Total:96994745,  DB's Ref:4)",4739,96994745,4
+"120","CNGBdb","sample
+(Total:406434,  DB's Ref:8)",2780,406434,8
+"121","CNGBdb","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"122","CNGBdb","study
+(Total:1735382,  DB's Ref:14)",20,1735382,14
+"123","CNGBdb","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"124","CNGBdb","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"125","COMPARE-RefGenome","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"126","COMPARE-RefGenome","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"127","COMPARE-RefGenome","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"128","COMPARE-RefGenome","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"129","COMPARE-RefGenome","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"130","COMPARE-RefGenome","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"131","COMPARE-RefGenome","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"132","COMPARE-RefGenome","sequence
+(Total:183684590,  DB's Ref:47)",122,183684590,47
+"133","COMPARE-RefGenome","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"134","COMPARE-RefGenome","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"135","COMPARE-RefGenome","wgsmaster
+(Total:1929971,  DB's Ref:7)",16,1929971,7
+"136","dictyBase","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"137","dictyBase","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"138","dictyBase","coding
+(Total:646126433,  DB's Ref:16)",13229,646126433,16
+"139","dictyBase","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"140","dictyBase","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"141","dictyBase","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"142","dictyBase","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"143","dictyBase","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"144","dictyBase","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"145","dictyBase","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"146","dictyBase","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"147","Ensembl","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"148","Ensembl","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"149","Ensembl","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"150","Ensembl","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"151","Ensembl","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"152","Ensembl","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"153","Ensembl","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"154","Ensembl","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"155","Ensembl","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"156","Ensembl","taxon
+(Total:824007,  DB's Ref:6)",153,824007,6
+"157","Ensembl","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"158","Ensembl-Gn","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"159","Ensembl-Gn","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"160","Ensembl-Gn","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"161","Ensembl-Gn","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"162","Ensembl-Gn","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"163","Ensembl-Gn","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"164","Ensembl-Gn","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"165","Ensembl-Gn","sequence
+(Total:183684590,  DB's Ref:47)",4642898,183684590,47
+"166","Ensembl-Gn","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"167","Ensembl-Gn","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"168","Ensembl-Gn","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"169","Ensembl-Scaffolds","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"170","Ensembl-Scaffolds","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"171","Ensembl-Scaffolds","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"172","Ensembl-Scaffolds","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"173","Ensembl-Scaffolds","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"174","Ensembl-Scaffolds","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"175","Ensembl-Scaffolds","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"176","Ensembl-Scaffolds","sequence
+(Total:183684590,  DB's Ref:47)",20527853,183684590,47
+"177","Ensembl-Scaffolds","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"178","Ensembl-Scaffolds","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"179","Ensembl-Scaffolds","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"180","Ensembl-Tr","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"181","Ensembl-Tr","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"182","Ensembl-Tr","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"183","Ensembl-Tr","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"184","Ensembl-Tr","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"185","Ensembl-Tr","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"186","Ensembl-Tr","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"187","Ensembl-Tr","sequence
+(Total:183684590,  DB's Ref:47)",4729569,183684590,47
+"188","Ensembl-Tr","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"189","Ensembl-Tr","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"190","Ensembl-Tr","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"191","EnsemblGenomes","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"192","EnsemblGenomes","assembly
+(Total:56319,  DB's Ref:3)",33474,56319,3
+"193","EnsemblGenomes","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"194","EnsemblGenomes","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"195","EnsemblGenomes","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"196","EnsemblGenomes","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"197","EnsemblGenomes","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"198","EnsemblGenomes","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"199","EnsemblGenomes","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"200","EnsemblGenomes","taxon
+(Total:824007,  DB's Ref:6)",33477,824007,6
+"201","EnsemblGenomes","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"202","EnsemblGenomes-Gn","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"203","EnsemblGenomes-Gn","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"204","EnsemblGenomes-Gn","coding
+(Total:646126433,  DB's Ref:16)",129464313,646126433,16
+"205","EnsemblGenomes-Gn","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"206","EnsemblGenomes-Gn","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"207","EnsemblGenomes-Gn","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"208","EnsemblGenomes-Gn","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"209","EnsemblGenomes-Gn","sequence
+(Total:183684590,  DB's Ref:47)",24507217,183684590,47
+"210","EnsemblGenomes-Gn","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"211","EnsemblGenomes-Gn","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"212","EnsemblGenomes-Gn","wgsmaster
+(Total:1929971,  DB's Ref:7)",2,1929971,7
+"213","EnsemblGenomes-Tr","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"214","EnsemblGenomes-Tr","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"215","EnsemblGenomes-Tr","coding
+(Total:646126433,  DB's Ref:16)",145238736,646126433,16
+"216","EnsemblGenomes-Tr","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"217","EnsemblGenomes-Tr","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"218","EnsemblGenomes-Tr","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"219","EnsemblGenomes-Tr","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"220","EnsemblGenomes-Tr","sequence
+(Total:183684590,  DB's Ref:47)",4552768,183684590,47
+"221","EnsemblGenomes-Tr","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"222","EnsemblGenomes-Tr","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"223","EnsemblGenomes-Tr","wgsmaster
+(Total:1929971,  DB's Ref:7)",6,1929971,7
+"224","EuropePMC","analysis
+(Total:67584251,  DB's Ref:4)",294,67584251,4
+"225","EuropePMC","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"226","EuropePMC","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"227","EuropePMC","experiment
+(Total:26615,  DB's Ref:3)",22140,26615,3
+"228","EuropePMC","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"229","EuropePMC","run
+(Total:96994745,  DB's Ref:4)",66264,96994745,4
+"230","EuropePMC","sample
+(Total:406434,  DB's Ref:8)",9062,406434,8
+"231","EuropePMC","sequence
+(Total:183684590,  DB's Ref:47)",1966233,183684590,47
+"232","EuropePMC","study
+(Total:1735382,  DB's Ref:14)",95926,1735382,14
+"233","EuropePMC","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"234","EuropePMC","wgsmaster
+(Total:1929971,  DB's Ref:7)",4423,1929971,7
+"235","FLYBASE","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"236","FLYBASE","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"237","FLYBASE","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"238","FLYBASE","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"239","FLYBASE","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"240","FLYBASE","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"241","FLYBASE","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"242","FLYBASE","sequence
+(Total:183684590,  DB's Ref:47)",1046180,183684590,47
+"243","FLYBASE","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"244","FLYBASE","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"245","FLYBASE","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"246","FlyBase-ncRNA","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"247","FlyBase-ncRNA","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"248","FlyBase-ncRNA","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"249","FlyBase-ncRNA","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"250","FlyBase-ncRNA","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"251","FlyBase-ncRNA","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"252","FlyBase-ncRNA","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"253","FlyBase-ncRNA","sequence
+(Total:183684590,  DB's Ref:47)",14765,183684590,47
+"254","FlyBase-ncRNA","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"255","FlyBase-ncRNA","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"256","FlyBase-ncRNA","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"257","GeneDB","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"258","GeneDB","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"259","GeneDB","coding
+(Total:646126433,  DB's Ref:16)",40805,646126433,16
+"260","GeneDB","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"261","GeneDB","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"262","GeneDB","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"263","GeneDB","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"264","GeneDB","sequence
+(Total:183684590,  DB's Ref:47)",542,183684590,47
+"265","GeneDB","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"266","GeneDB","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"267","GeneDB","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"268","GEO","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"269","GEO","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"270","GEO","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"271","GEO","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"272","GEO","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"273","GEO","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"274","GEO","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"275","GEO","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"276","GEO","study
+(Total:1735382,  DB's Ref:14)",196723,1735382,14
+"277","GEO","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"278","GEO","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"279","GOA","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"280","GOA","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"281","GOA","coding
+(Total:646126433,  DB's Ref:16)",155500567,646126433,16
+"282","GOA","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"283","GOA","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"284","GOA","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"285","GOA","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"286","GOA","sequence
+(Total:183684590,  DB's Ref:47)",10249884,183684590,47
+"287","GOA","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"288","GOA","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"289","GOA","wgsmaster
+(Total:1929971,  DB's Ref:7)",36,1929971,7
+"290","GrainGenes","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"291","GrainGenes","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"292","GrainGenes","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"293","GrainGenes","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"294","GrainGenes","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"295","GrainGenes","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"296","GrainGenes","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"297","GrainGenes","sequence
+(Total:183684590,  DB's Ref:47)",1661475,183684590,47
+"298","GrainGenes","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"299","GrainGenes","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"300","GrainGenes","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"301","GtRNAdb","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"302","GtRNAdb","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"303","GtRNAdb","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"304","GtRNAdb","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"305","GtRNAdb","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"306","GtRNAdb","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"307","GtRNAdb","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"308","GtRNAdb","sequence
+(Total:183684590,  DB's Ref:47)",23519,183684590,47
+"309","GtRNAdb","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"310","GtRNAdb","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"311","GtRNAdb","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"312","HGNC","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"313","HGNC","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"314","HGNC","coding
+(Total:646126433,  DB's Ref:16)",150885,646126433,16
+"315","HGNC","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"316","HGNC","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"317","HGNC","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"318","HGNC","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"319","HGNC","sequence
+(Total:183684590,  DB's Ref:47)",151442,183684590,47
+"320","HGNC","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"321","HGNC","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"322","HGNC","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"323","IMGT/HLA","analysis
+(Total:67584251,  DB's Ref:4)",1,67584251,4
+"324","IMGT/HLA","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"325","IMGT/HLA","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"326","IMGT/HLA","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"327","IMGT/HLA","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"328","IMGT/HLA","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"329","IMGT/HLA","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"330","IMGT/HLA","sequence
+(Total:183684590,  DB's Ref:47)",51184,183684590,47
+"331","IMGT/HLA","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"332","IMGT/HLA","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"333","IMGT/HLA","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"334","IMGT/LIGM","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"335","IMGT/LIGM","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"336","IMGT/LIGM","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"337","IMGT/LIGM","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"338","IMGT/LIGM","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"339","IMGT/LIGM","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"340","IMGT/LIGM","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"341","IMGT/LIGM","sequence
+(Total:183684590,  DB's Ref:47)",245800,183684590,47
+"342","IMGT/LIGM","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"343","IMGT/LIGM","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"344","IMGT/LIGM","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"345","IPD-KIR","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"346","IPD-KIR","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"347","IPD-KIR","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"348","IPD-KIR","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"349","IPD-KIR","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"350","IPD-KIR","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"351","IPD-KIR","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"352","IPD-KIR","sequence
+(Total:183684590,  DB's Ref:47)",2392,183684590,47
+"353","IPD-KIR","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"354","IPD-KIR","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"355","IPD-KIR","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"356","IPD-MHC","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"357","IPD-MHC","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"358","IPD-MHC","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"359","IPD-MHC","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"360","IPD-MHC","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"361","IPD-MHC","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"362","IPD-MHC","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"363","IPD-MHC","sequence
+(Total:183684590,  DB's Ref:47)",14893,183684590,47
+"364","IPD-MHC","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"365","IPD-MHC","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"366","IPD-MHC","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"367","IPD-NHKIR","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"368","IPD-NHKIR","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"369","IPD-NHKIR","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"370","IPD-NHKIR","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"371","IPD-NHKIR","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"372","IPD-NHKIR","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"373","IPD-NHKIR","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"374","IPD-NHKIR","sequence
+(Total:183684590,  DB's Ref:47)",900,183684590,47
+"375","IPD-NHKIR","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"376","IPD-NHKIR","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"377","IPD-NHKIR","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"378","MarDB","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"379","MarDB","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"380","MarDB","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"381","MarDB","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"382","MarDB","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"383","MarDB","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"384","MarDB","sample
+(Total:406434,  DB's Ref:8)",12972,406434,8
+"385","MarDB","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"386","MarDB","study
+(Total:1735382,  DB's Ref:14)",12972,1735382,14
+"387","MarDB","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"388","MarDB","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"389","MarFun","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"390","MarFun","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"391","MarFun","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"392","MarFun","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"393","MarFun","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"394","MarFun","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"395","MarFun","sample
+(Total:406434,  DB's Ref:8)",21,406434,8
+"396","MarFun","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"397","MarFun","study
+(Total:1735382,  DB's Ref:14)",21,1735382,14
+"398","MarFun","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"399","MarFun","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"400","MarRef","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"401","MarRef","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"402","MarRef","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"403","MarRef","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"404","MarRef","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"405","MarRef","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"406","MarRef","sample
+(Total:406434,  DB's Ref:8)",1403,406434,8
+"407","MarRef","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"408","MarRef","study
+(Total:1735382,  DB's Ref:14)",1403,1735382,14
+"409","MarRef","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"410","MarRef","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"411","MD5","analysis
+(Total:67584251,  DB's Ref:4)",67583948,67584251,4
+"412","MD5","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"413","MD5","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"414","MD5","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"415","MD5","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"416","MD5","run
+(Total:96994745,  DB's Ref:4)",96923741,96994745,4
+"417","MD5","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"418","MD5","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"419","MD5","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"420","MD5","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"421","MD5","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"422","MGI","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"423","MGI","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"424","MGI","coding
+(Total:646126433,  DB's Ref:16)",117363,646126433,16
+"425","MGI","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"426","MGI","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"427","MGI","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"428","MGI","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"429","MGI","sequence
+(Total:183684590,  DB's Ref:47)",7715,183684590,47
+"430","MGI","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"431","MGI","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"432","MGI","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"433","MGnify","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"434","MGnify","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"435","MGnify","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"436","MGnify","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"437","MGnify","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"438","MGnify","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"439","MGnify","sample
+(Total:406434,  DB's Ref:8)",326533,406434,8
+"440","MGnify","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"441","MGnify","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"442","MGnify","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"443","MGnify","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"444","miRBase","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"445","miRBase","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"446","miRBase","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"447","miRBase","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"448","miRBase","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"449","miRBase","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"450","miRBase","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"451","miRBase","sequence
+(Total:183684590,  DB's Ref:47)",8551,183684590,47
+"452","miRBase","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"453","miRBase","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"454","miRBase","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"455","PANGAEA","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"456","PANGAEA","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"457","PANGAEA","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"458","PANGAEA","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"459","PANGAEA","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"460","PANGAEA","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"461","PANGAEA","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"462","PANGAEA","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"463","PANGAEA","study
+(Total:1735382,  DB's Ref:14)",39,1735382,14
+"464","PANGAEA","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"465","PANGAEA","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"466","PDB","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"467","PDB","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"468","PDB","coding
+(Total:646126433,  DB's Ref:16)",2157480,646126433,16
+"469","PDB","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"470","PDB","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"471","PDB","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"472","PDB","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"473","PDB","sequence
+(Total:183684590,  DB's Ref:47)",132500,183684590,47
+"474","PDB","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"475","PDB","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"476","PDB","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"477","PomBase","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"478","PomBase","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"479","PomBase","coding
+(Total:646126433,  DB's Ref:16)",10256,646126433,16
+"480","PomBase","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"481","PomBase","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"482","PomBase","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"483","PomBase","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"484","PomBase","sequence
+(Total:183684590,  DB's Ref:47)",4282,183684590,47
+"485","PomBase","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"486","PomBase","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"487","PomBase","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"488","Proteome","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"489","Proteome","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"490","Proteome","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"491","Proteome","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"492","Proteome","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"493","Proteome","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"494","Proteome","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"495","Proteome","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"496","Proteome","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"497","Proteome","taxon
+(Total:824007,  DB's Ref:6)",93846,824007,6
+"498","Proteome","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"499","PubMed","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"500","PubMed","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"501","PubMed","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"502","PubMed","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"503","PubMed","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"504","PubMed","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"505","PubMed","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"506","PubMed","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"507","PubMed","study
+(Total:1735382,  DB's Ref:14)",196180,1735382,14
+"508","PubMed","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"509","PubMed","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"510","RFAM","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"511","RFAM","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"512","RFAM","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"513","RFAM","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"514","RFAM","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"515","RFAM","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"516","RFAM","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"517","RFAM","sequence
+(Total:183684590,  DB's Ref:47)",4613657,183684590,47
+"518","RFAM","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"519","RFAM","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"520","RFAM","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"521","RNAcentral","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"522","RNAcentral","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"523","RNAcentral","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"524","RNAcentral","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"525","RNAcentral","noncoding
+(Total:13261734,  DB's Ref:1)",13261734,13261734,1
+"526","RNAcentral","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"527","RNAcentral","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"528","RNAcentral","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"529","RNAcentral","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"530","RNAcentral","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"531","RNAcentral","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"532","SARS-CoV-2","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"533","SARS-CoV-2","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"534","SARS-CoV-2","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"535","SARS-CoV-2","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"536","SARS-CoV-2","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"537","SARS-CoV-2","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"538","SARS-CoV-2","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"539","SARS-CoV-2","sequence
+(Total:183684590,  DB's Ref:47)",2405800,183684590,47
+"540","SARS-CoV-2","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"541","SARS-CoV-2","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"542","SARS-CoV-2","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"543","SGD","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"544","SGD","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"545","SGD","coding
+(Total:646126433,  DB's Ref:16)",12877,646126433,16
+"546","SGD","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"547","SGD","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"548","SGD","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"549","SGD","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"550","SGD","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"551","SGD","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"552","SGD","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"553","SGD","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"554","SILVA-LSU","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"555","SILVA-LSU","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"556","SILVA-LSU","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"557","SILVA-LSU","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"558","SILVA-LSU","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"559","SILVA-LSU","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"560","SILVA-LSU","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"561","SILVA-LSU","sequence
+(Total:183684590,  DB's Ref:47)",735238,183684590,47
+"562","SILVA-LSU","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"563","SILVA-LSU","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"564","SILVA-LSU","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"565","SILVA-SSU","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"566","SILVA-SSU","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"567","SILVA-SSU","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"568","SILVA-SSU","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"569","SILVA-SSU","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"570","SILVA-SSU","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"571","SILVA-SSU","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"572","SILVA-SSU","sequence
+(Total:183684590,  DB's Ref:47)",9469659,183684590,47
+"573","SILVA-SSU","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"574","SILVA-SSU","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"575","SILVA-SSU","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"576","snOPYdb","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"577","snOPYdb","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"578","snOPYdb","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"579","snOPYdb","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"580","snOPYdb","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"581","snOPYdb","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"582","snOPYdb","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"583","snOPYdb","sequence
+(Total:183684590,  DB's Ref:47)",2634,183684590,47
+"584","snOPYdb","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"585","snOPYdb","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"586","snOPYdb","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"587","SRPDB","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"588","SRPDB","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"589","SRPDB","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"590","SRPDB","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"591","SRPDB","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"592","SRPDB","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"593","SRPDB","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"594","SRPDB","sequence
+(Total:183684590,  DB's Ref:47)",855,183684590,47
+"595","SRPDB","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"596","SRPDB","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"597","SRPDB","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"598","SubtiList","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"599","SubtiList","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"600","SubtiList","coding
+(Total:646126433,  DB's Ref:16)",4060,646126433,16
+"601","SubtiList","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"602","SubtiList","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"603","SubtiList","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"604","SubtiList","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"605","SubtiList","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"606","SubtiList","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"607","SubtiList","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"608","SubtiList","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"609","TAIR","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"610","TAIR","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"611","TAIR","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"612","TAIR","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"613","TAIR","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"614","TAIR","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"615","TAIR","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"616","TAIR","sequence
+(Total:183684590,  DB's Ref:47)",1290,183684590,47
+"617","TAIR","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"618","TAIR","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"619","TAIR","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"620","TreatmentBank","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"621","TreatmentBank","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"622","TreatmentBank","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"623","TreatmentBank","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"624","TreatmentBank","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"625","TreatmentBank","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"626","TreatmentBank","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"627","TreatmentBank","sequence
+(Total:183684590,  DB's Ref:47)",31706,183684590,47
+"628","TreatmentBank","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"629","TreatmentBank","taxon
+(Total:824007,  DB's Ref:6)",58613,824007,6
+"630","TreatmentBank","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"631","TSA","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"632","TSA","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"633","TSA","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"634","TSA","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"635","TSA","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"636","TSA","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"637","TSA","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"638","TSA","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"639","TSA","study
+(Total:1735382,  DB's Ref:14)",4702,1735382,14
+"640","TSA","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"641","TSA","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"642","UniEuk","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"643","UniEuk","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"644","UniEuk","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"645","UniEuk","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"646","UniEuk","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"647","UniEuk","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"648","UniEuk","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"649","UniEuk","sequence
+(Total:183684590,  DB's Ref:47)",967,183684590,47
+"650","UniEuk","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"651","UniEuk","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"652","UniEuk","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"653","UniEuk (Inferred)","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"654","UniEuk (Inferred)","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"655","UniEuk (Inferred)","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"656","UniEuk (Inferred)","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"657","UniEuk (Inferred)","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"658","UniEuk (Inferred)","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"659","UniEuk (Inferred)","sample
+(Total:406434,  DB's Ref:8)",53661,406434,8
+"660","UniEuk (Inferred)","sequence
+(Total:183684590,  DB's Ref:47)",784427,183684590,47
+"661","UniEuk (Inferred)","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"662","UniEuk (Inferred)","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"663","UniEuk (Inferred)","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"664","UNILIB","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"665","UNILIB","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"666","UNILIB","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"667","UNILIB","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"668","UNILIB","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"669","UNILIB","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"670","UNILIB","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"671","UNILIB","sequence
+(Total:183684590,  DB's Ref:47)",62375544,183684590,47
+"672","UNILIB","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"673","UNILIB","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"674","UNILIB","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"675","UniProtKB/Swiss-Prot","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"676","UniProtKB/Swiss-Prot","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"677","UniProtKB/Swiss-Prot","coding
+(Total:646126433,  DB's Ref:16)",955637,646126433,16
+"678","UniProtKB/Swiss-Prot","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"679","UniProtKB/Swiss-Prot","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"680","UniProtKB/Swiss-Prot","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"681","UniProtKB/Swiss-Prot","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"682","UniProtKB/Swiss-Prot","sequence
+(Total:183684590,  DB's Ref:47)",48911,183684590,47
+"683","UniProtKB/Swiss-Prot","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"684","UniProtKB/Swiss-Prot","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"685","UniProtKB/Swiss-Prot","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"686","UniProtKB/TrEMBL","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"687","UniProtKB/TrEMBL","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"688","UniProtKB/TrEMBL","coding
+(Total:646126433,  DB's Ref:16)",212333006,646126433,16
+"689","UniProtKB/TrEMBL","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"690","UniProtKB/TrEMBL","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"691","UniProtKB/TrEMBL","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"692","UniProtKB/TrEMBL","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"693","UniProtKB/TrEMBL","sequence
+(Total:183684590,  DB's Ref:47)",2136773,183684590,47
+"694","UniProtKB/TrEMBL","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"695","UniProtKB/TrEMBL","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"696","UniProtKB/TrEMBL","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"697","UNITE","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"698","UNITE","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"699","UNITE","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"700","UNITE","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"701","UNITE","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"702","UNITE","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"703","UNITE","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"704","UNITE","sequence
+(Total:183684590,  DB's Ref:47)",1054020,183684590,47
+"705","UNITE","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"706","UNITE","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"707","UNITE","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"708","VBASE2","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"709","VBASE2","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"710","VBASE2","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"711","VBASE2","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"712","VBASE2","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"713","VBASE2","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"714","VBASE2","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"715","VBASE2","sequence
+(Total:183684590,  DB's Ref:47)",2884,183684590,47
+"716","VBASE2","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"717","VBASE2","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"718","VBASE2","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"719","VectorBase","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"720","VectorBase","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"721","VectorBase","coding
+(Total:646126433,  DB's Ref:16)",80052,646126433,16
+"722","VectorBase","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"723","VectorBase","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"724","VectorBase","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"725","VectorBase","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"726","VectorBase","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"727","VectorBase","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"728","VectorBase","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"729","VectorBase","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"730","VEGA-Gn","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"731","VEGA-Gn","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"732","VEGA-Gn","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"733","VEGA-Gn","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"734","VEGA-Gn","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"735","VEGA-Gn","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"736","VEGA-Gn","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"737","VEGA-Gn","sequence
+(Total:183684590,  DB's Ref:47)",28652,183684590,47
+"738","VEGA-Gn","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"739","VEGA-Gn","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"740","VEGA-Gn","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"741","VEGA-Tr","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"742","VEGA-Tr","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"743","VEGA-Tr","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"744","VEGA-Tr","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"745","VEGA-Tr","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"746","VEGA-Tr","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"747","VEGA-Tr","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"748","VEGA-Tr","sequence
+(Total:183684590,  DB's Ref:47)",28652,183684590,47
+"749","VEGA-Tr","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"750","VEGA-Tr","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"751","VEGA-Tr","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"752","WGS","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"753","WGS","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"754","WGS","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"755","WGS","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"756","WGS","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"757","WGS","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"758","WGS","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"759","WGS","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"760","WGS","study
+(Total:1735382,  DB's Ref:14)",1220943,1735382,14
+"761","WGS","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"762","WGS","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"763","WormBase","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"764","WormBase","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"765","WormBase","coding
+(Total:646126433,  DB's Ref:16)",28158,646126433,16
+"766","WormBase","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"767","WormBase","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"768","WormBase","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"769","WormBase","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"770","WormBase","sequence
+(Total:183684590,  DB's Ref:47)",29276,183684590,47
+"771","WormBase","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"772","WormBase","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"773","WormBase","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"774","WoRMS","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"775","WoRMS","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"776","WoRMS","coding
+(Total:646126433,  DB's Ref:16)",0,646126433,16
+"777","WoRMS","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"778","WoRMS","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"779","WoRMS","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"780","WoRMS","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"781","WoRMS","sequence
+(Total:183684590,  DB's Ref:47)",0,183684590,47
+"782","WoRMS","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"783","WoRMS","taxon
+(Total:824007,  DB's Ref:6)",98009,824007,6
+"784","WoRMS","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7
+"785","ZFIN","analysis
+(Total:67584251,  DB's Ref:4)",0,67584251,4
+"786","ZFIN","assembly
+(Total:56319,  DB's Ref:3)",0,56319,3
+"787","ZFIN","coding
+(Total:646126433,  DB's Ref:16)",19009,646126433,16
+"788","ZFIN","experiment
+(Total:26615,  DB's Ref:3)",0,26615,3
+"789","ZFIN","noncoding
+(Total:13261734,  DB's Ref:1)",0,13261734,1
+"790","ZFIN","run
+(Total:96994745,  DB's Ref:4)",0,96994745,4
+"791","ZFIN","sample
+(Total:406434,  DB's Ref:8)",0,406434,8
+"792","ZFIN","sequence
+(Total:183684590,  DB's Ref:47)",22062,183684590,47
+"793","ZFIN","study
+(Total:1735382,  DB's Ref:14)",0,1735382,14
+"794","ZFIN","taxon
+(Total:824007,  DB's Ref:6)",0,824007,6
+"795","ZFIN","wgsmaster
+(Total:1929971,  DB's Ref:7)",0,1929971,7

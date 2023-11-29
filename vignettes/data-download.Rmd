@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 
 ## Introduction
 
-The European Nucleotide Archive (ENA) provides a comprehensive record of nucleotide sequences and their associated annotation. The ena_download function in our package offers a streamlined way to download data from ENA using either a query or accession numbers.
+The European Nucleotide Archive (ENA) provides a comprehensive record of nucleotide sequence The ena_download function in our package offers a streamlined way to download data from ENA using either a query or accession numbers.
 
 ## Setup
 
@@ -43,6 +43,11 @@ Before using the rena package, ensure you have the necessary Java runtime instal
   default, it uses the current working directory.
 - `email:` A character string specifying the email address for
   notifications. By default, no email is sent.
+  
+Please enclose the inputs within double quotes if it contains spaces. For example, if you would like to download files in a location such as `C:\Users\Documents\ena ebi` you wuold need to delcare the location as:
+```{r}
+location = "`C:\Users\Documents\ena ebi`"
+```
 
 
 ## Download data using a query

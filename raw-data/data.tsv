@@ -1,0 +1,72 @@
+Source	Description
+ArrayExpress	ArrayExpress experiment
+Assembly	ENA Assembly Objects
+BacDive	BacDive Metadatabase
+BCCM/LMBP	BCCM/LMBP Plasmid Collection
+BlobToolKit	BlobToolKit: Toolkit for genome assembly QC
+CABRI	CABRI
+CCAP	Culture Collection of Algae and Protozoa
+Citation	Citation
+CNGBdb	China National GeneBank DataBase
+COMPARE-RefGenome	Reference Genome as provided by COMPARE
+dictyBase	Dictyostelid genomics
+Ensembl	Genome (EnsEMBL)
+Ensembl-Gn	EnsEMBL Genes
+Ensembl-Scaffolds	EnsEMBL Scaffolds and Chromosomes
+Ensembl-Tr	EnsEMBL Transcripts
+EnsemblGenomes	Genome (EnsEMBL Genomes)
+EnsemblGenomes-Gn	EnsEMBL Genomes Genes
+EnsemblGenomes-Tr	EnsEMBL Genomes Transcripts
+EuropePMC	Europe Pubmed Central
+FLYBASE	FlyBase
+FlyBase-ncRNA	FlyBase ncRNAs
+GeneDB	A genome database for eukaryotic and prokaryotic pathogens
+GEO	GEO
+GOA	GOA
+GrainGenes	GrainGenes
+GtRNAdb	Genomic tRNA Database
+HGNC	Human Gene Nomenclature Database (HUGO)
+IMGT/HLA	IMMUNOGENETICS/HUMAN LEUCOCYTE ANTIGENS
+IMGT/LIGM	IMGT/LIGM
+InterPro	InterPro
+IPD-KIR	IPD-Killer-cell Immunoglobulin-like Receptor Database
+IPD-MHC	Database for the non-human Major Histocompatibility Complex genes
+IPD-NHKIR	Non-human KIR sequences with the IPD project
+MarDB	The Marine Specific Database (MarDB)
+MarFun	The Marine Fungi Database (MarFun)
+MarRef	The Marine Reference Database (MarRef)
+MD5	Reference sequences
+MGI	Mouse Genome Informatics
+MGnify	A free to use resource for the archiving, assembly, analysis and browsing of microbiome data
+miRBase	A database of published miRNA sequences and annotations
+PANGAEA	Data Publisher for Earth and Environmental Science
+PDB	Brookhaven PDB
+PomBase	A comprehensive database for the fission yeast Schizosaccharomyces pombe
+Proteome	Reference proteome (from Uniprot)
+PubMed	PubMed
+RFAM	RFAM
+RNAcentral	Database of ncRNA sequences
+SARS-CoV-2	SARS-CoV-2 database
+SGD	Saccharomyces Genome Database
+SILVA-LSU	SILVA Large SubUnit
+SILVA-SSU	SILVA Small SubUnit
+snOPYdb	snoRNA Orthological Gene Database
+SRPDB	Signal Recognition Particle Database
+SubtiList	SUBTILIS
+TAIR	The Arabidopsis Information Resource
+TreatmentBank	Plazi TreatmentBank taxonomic treatment collection
+TSA	TSA master record
+UniEuk	UniEuk is a community-based project to achieve a universal taxonomic framework for eukaryotes, focused primarily on protists
+UniEuk (Inferred)	UniEuk is a community-based project to achieve a universal taxonomic framework for eukaryotes, focused primarily on protists.
+UNILIB	UNILIB
+UniProtKB/Swiss-Prot	UniProt/Swiss-Prot
+UniProtKB/TrEMBL	UniProtKB/TrEMBL
+UNITE	UNITE - Unified system for the DNA based fungal species linked to the classification
+VBASE2	VBASE2
+VectorBase	VectorBase
+VEGA-Gn	The Vertebrate Genome Annotation Database Genes
+VEGA-Tr	The Vertebrate Genome Annotation Database Transcripts
+WGS	WGS master record
+WormBase	WormBase
+WoRMS	World Register of Marine Species
+ZFIN	Zebrafish Model Organism Database

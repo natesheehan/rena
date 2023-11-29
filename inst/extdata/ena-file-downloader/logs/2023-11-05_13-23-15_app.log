@@ -1,0 +1,4 @@
+2023-11-05 13:23:17.132  INFO 22424 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Starting EnaFileDownloaderApplication using Java 20.0.2 on 5CG1275NG3 with PID 22424 (C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\inst\extdata\ena-file-downloader\ena-file-downloader.jar started by ns651 in C:\Users\ns651\OneDrive - University of Exeter\Desktop\rena\inst\extdata\ena-file-downloader)
+2023-11-05 13:23:17.134 DEBUG 22424 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-11-05 13:23:17.135  INFO 22424 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : No active profile set, falling back to default profiles: default
+2023-11-05 13:23:18.202  INFO 22424 --- [main] u.a.e.ena.EnaFileDownloaderApplication   : Started EnaFileDownloaderApplication in 1.631 seconds (JVM running for 2.699)
