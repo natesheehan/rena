@@ -1,0 +1,71 @@
+,Source,Description,Category
+1,ArrayExpress,ArrayExpress experiment,"Gene expression	"
+2,Assembly,ENA Assembly Objects,"Nucleotide sequences	"
+3,BacDive,BacDive Metadatabase,
+4,BCCM/LMBP,BCCM/LMBP Plasmid Collection,
+5,BlobToolKit,BlobToolKit: Toolkit for genome assembly QC,Genomes & metagenomes
+6,CABRI,CABRI,
+7,CCAP,Culture Collection of Algae and Protozoa,"Nucleotide sequences	"
+8,Citation,Citation,Literature
+9,CNGBdb,China National GeneBank DataBase,Catalogues & Registries
+10,COMPARE-RefGenome,Reference Genome as provided by COMPARE,Genomes & metagenomes
+11,dictyBase,Dictyostelid genomics,Genomes & metagenomes
+12,Ensembl,Genome (EnsEMBL),Genomes & metagenomes
+13,Ensembl-Gn,EnsEMBL Genes,Genomes & metagenomes
+14,Ensembl-Scaffolds,EnsEMBL Scaffolds and Chromosomes,Gene expression
+15,Ensembl-Tr,EnsEMBL Transcripts,Genomes & metagenomes
+16,EnsemblGenomes,Genome (EnsEMBL Genomes),Genomes & metagenomes
+17,EnsemblGenomes-Gn,EnsEMBL Genomes Genes,Genomes & metagenomes
+18,EnsemblGenomes-Tr,EnsEMBL Genomes Transcripts,Genomes & metagenomes
+19,EuropePMC,Europe Pubmed Central,Literature
+20,FLYBASE,FlyBase,"Nucleotide sequences	"
+21,FlyBase-ncRNA,FlyBase ncRNAs,"Nucleotide sequences	"
+22,GeneDB,A genome database for eukaryotic and prokaryotic pathogens,Genomes & metagenomes
+23,GEO,GEO,Gene expression
+24,GOA,GOA,Samples & ontologies
+25,GrainGenes,GrainGenesG,Gene expression
+26,GtRNAdb,Genomic tRNA Database,"Nucleotide sequences	"
+27,HGNC,Human Gene Nomenclature Database (HUGO),Gene expression
+28,IMGT/HLA,IMMUNOGENETICS/HUMAN LEUCOCYTE ANTIGENS,
+29,IMGT/LIGM,IMGT/LIGM,
+30,IPD-KIR,IPD-Killer-cell Immunoglobulin-like Receptor Database,
+31,IPD-MHC,Database for the non-human Major Histocompatibility Complex genes,Gene expression
+32,IPD-NHKIR,Non-human KIR sequences with the IPD project,"Nucleotide sequences	"
+33,MarDB,The Marine Specific Database (MarDB),"Nucleotide sequences	"
+34,MarFun,The Marine Fungi Database (MarFun),"Nucleotide sequences	"
+35,MarRef,The Marine Reference Database (MarRef),"Nucleotide sequences	"
+36,MD5,Reference sequences,"Nucleotide sequences	"
+37,MGI,Mouse Genome Informatics,Genomes & metagenomes
+38,MGnify,"A free to use resource for the archiving, assembly, analysis and browsing of microbiome data","Genomes & metagenomes	"
+39,miRBase,A database of published miRNA sequences and annotations,"Nucleotide sequences	"
+40,PANGAEA,Data Publisher for Earth and Environmental Science,
+41,PDB,Brookhaven PDB,"Protein sequences	"
+42,PomBase,A comprehensive database for the fission yeast Schizosaccharomyces pombe,Genomes & metagenomes
+43,Proteome,Reference proteome (from Uniprot),"Protein sequences	"
+44,PubMed,PubMed,Literature
+45,RFAM,RFAM,"Nucleotide sequences	"
+46,RNAcentral,Database of ncRNA sequences,"Nucleotide sequences	"
+47,SARS-CoV-2,SARS-CoV-2 database,"Nucleotide sequences	"
+48,SGD,Saccharomyces Genome Database,Genomes & metagenomes
+49,SILVA-LSU,SILVA Large SubUnit,"Nucleotide sequences	"
+50,SILVA-SSU,SILVA Small SubUnit,"Nucleotide sequences	"
+51,snOPYdb,snoRNA Orthological Gene Database,Gene expression
+52,SRPDB,Signal Recognition Particle Database,"Nucleotide sequences	"
+53,SubtiList,SUBTILIS,Genomes & metagenomes
+54,TAIR,The Arabidopsis Information Resource,Genomes & metagenomes
+55,TreatmentBank,Plazi TreatmentBank taxonomic treatment collection,Molecular interactions
+56,TSA,TSA master record,
+57,UniEuk,"UniEuk is a community-based project to achieve a universal taxonomic framework for eukaryotes, focused primarily on protists",
+58,UniEuk (Inferred),"UniEuk is a community-based project to achieve a universal taxonomic framework for eukaryotes, focused primarily on protists.",
+59,UNILIB,UNILIB,"Nucleotide sequences	"
+60,UniProtKB/Swiss-Prot,UniProt/Swiss-Prot,"Protein sequences	"
+61,UniProtKB/TrEMBL,UniProtKB/TrEMBL,"Protein sequences	"
+62,UNITE,UNITE - Unified system for the DNA based fungal species linked to the classification,"Nucleotide sequences	"
+63,VBASE2,VBASE2,Gene expression
+64,VectorBase,VectorBase,Gene-Disease Associations
+65,VEGA-Gn,The Vertebrate Genome Annotation Database Genes,Genomes & metagenomes
+66,VEGA-Tr,The Vertebrate Genome Annotation Database Transcripts,Genomes & metagenomes
+67,WGS,WGS master record,"Gene expression	"
+68,WormBase,WormBase,Genomes & metagenomes
+69,WoRMS,World Register of Marine Species,"Nucleotide sequences	"
+70,ZFIN,Zebrafish Model Organism Database,"Nucleotide sequences	"

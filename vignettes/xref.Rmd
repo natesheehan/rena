@@ -2,7 +2,7 @@
 title: "Xref"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{data-download}
+  %\VignetteIndexEntry{xref}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---

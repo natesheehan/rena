@@ -2,3 +2,7 @@
 
 export(ena_datahub_download)
 export(ena_download)
+export(xref_active)
+export(xref_search)
+export(xref_searchcount)
+export(xref_target)
